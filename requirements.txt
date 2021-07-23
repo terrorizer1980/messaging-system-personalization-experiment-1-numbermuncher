@@ -54,8 +54,8 @@ pyasn1==0.4.7
 pyasn1-modules==0.2.7
 pycodestyle==2.5.0
 pyflakes==2.1.1
-Pygments==2.4.2
-pylint==2.4.4
+Pygments==2.7.4
+pylint==2.7.0
 pyparsing==2.4.4
 pyrsistent==0.15.5
 pytest==5.2.2
