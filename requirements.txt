@@ -74,8 +74,9 @@ sklearn==0.0
 traitlets==4.3.3
 typed-ast==1.4.0
 uritemplate==3.0.0
-urllib3==1.25.6
+urllib3==1.26.17
 wcwidth==0.1.7
 Werkzeug==0.16.0
 wrapt==1.11.2
 zipp==0.6.0
+scikit-learn>=0.24.2 # not directly required, pinned by Snyk to avoid a vulnerability
