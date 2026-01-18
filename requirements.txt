@@ -50,7 +50,7 @@ protobuf==3.10.0
 ptyprocess==0.6.0
 py==1.8.0
 py4j==0.10.7
-pyasn1==0.4.7
+pyasn1==0.6.2
 pyasn1-modules==0.2.7
 pycodestyle==2.5.0
 pyflakes==2.1.1
